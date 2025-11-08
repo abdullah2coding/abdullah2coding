@@ -91,11 +91,18 @@ who loves coding things that make life easier — or at least more fun 😎
 
 ---
 
-### 🕹️ Developer Mode
+### 🕹️ Developer Mode  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
+</p>
+
 ```js
 while (alive) {
-  eat();
-  code();
-  sleep();
+  coffee.refill();
+  code.create("awesome stuff 💻");
+  commit("fix: it finally works 🤞");
+  sleep(3); // optional...
   repeat();
 }
+
