@@ -67,6 +67,15 @@ who loves coding things that make life easier — or at least more fun 😎
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" />
 </p>
 
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/codingewer/codingewer/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/codingewer/codingewer/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+----
+
 
 ### ⚙️ GitHub Stats
 <p align="center">
