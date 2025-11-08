@@ -24,18 +24,7 @@ who loves coding things that make life easier — or at least more fun 😎
 - ☕ Motto: “If it compiles, ship it.”
 
 ---
-### 🤝 Connect with me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdullah-demir-81b8ba298" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="45" height="45"/>
-  </a>
-</p>
-
+### 💬 Contact Me <p align="center"> <a href="mailto:abdullah.dmr6556@gmail.com"><img src="https://img.shields.io/badge/Email-FF3333?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/abdullah-demir-81b8ba298"><img src="https://img.shields.io/badge/LinkedIn-00AAFF?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/abdullah2coding"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
 
 ---
 ### 🧠 Languages and Tools
