@@ -91,22 +91,27 @@ who loves coding things that make life easier — or at least more fun 😎
 
 ---
 
----
-
-## 🌈 2️⃣ Neon + Matrix Tarzı Versiyon  
-(renkli, karanlık temada inanılmaz durur)
+-
+## 🚀 3️⃣ Ultra Fun & Futuristic (en şekilli)  
+(müzik ritimli animasyon havası, renkli emoji’lerle süper kapanış olur)
 
 ```markdown
-### 💻 Developer Mode: System Online
+### 🚀 Developer Mode Activated  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="450" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450"/>
 </p>
 
-```bash
-> Initializing brain.exe...
-> Compiling creativity... ✅
-> Deploying ideas to production... 🚀
-> ERROR 404: Sleep not found 😴
-> Launching infinite loop of innovation 🔁
-> SYSTEM STABLE: Abdullah Demir active ⚡
+```js
+for (let life = 1; life <= Infinity; life++) {
+  try {
+    drink("coffee ☕");
+    code("cool things 💻");
+    learn("new tricks 🧠");
+    breakBug("😤");
+  } catch (bug) {
+    console.log("Debugging life...", bug);
+  } finally {
+    sleep("maybe 😴");
+  }
+}
