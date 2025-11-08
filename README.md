@@ -24,7 +24,6 @@ who loves coding things that make life easier — or at least more fun 😎
 - ☕ Motto: “If it compiles, ship it.”
 
 ---
-
 ### 🤝 Connect with me  
 
 <p align="center">
@@ -33,9 +32,10 @@ who loves coding things that make life easier — or at least more fun 😎
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" alt="Instagram" width="45" height="45" style="filter: invert(37%) sepia(95%) saturate(1000%) hue-rotate(310deg) brightness(95%) contrast(90%);"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="45" height="45"/>
   </a>
 </p>
+
 
 ---
 ### 🧠 Languages and Tools
