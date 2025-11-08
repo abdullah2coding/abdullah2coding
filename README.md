@@ -90,28 +90,18 @@ who loves coding things that make life easier — or at least more fun 😎
 </p>
 
 ---
-
--
-## 🚀 3️⃣ Ultra Fun & Futuristic (en şekilli)  
-(müzik ritimli animasyon havası, renkli emoji’lerle süper kapanış olur)
-
-```markdown
-### 🚀 Developer Mode Activated  
+### 🕹️ Developer Mode  
 
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
 </p>
 
 ```js
-for (let life = 1; life <= Infinity; life++) {
-  try {
-    drink("coffee ☕");
-    code("cool things 💻");
-    learn("new tricks 🧠");
-    breakBug("😤");
-  } catch (bug) {
-    console.log("Debugging life...", bug);
-  } finally {
-    sleep("maybe 😴");
-  }
+while (alive) {
+  coffee.refill();
+  code.create("awesome stuff 💻");
+  commit("fix: it finally works 🤞");
+  sleep(3); // optional...
+  repeat();
 }
+
