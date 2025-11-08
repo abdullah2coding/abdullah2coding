@@ -1,5 +1,5 @@
 <!--
-🔥 Abdullah Demir | Full Stack Developer |
+🔥 Abdullah Demir | Full Stack Developer | 
 -->
 
 <h1 align="center">
@@ -25,17 +25,43 @@ who loves coding things that make life easier — or at least more fun 😎
 
 ---
 
-### 🧰 Tech Stack
+### 🤝 Connect with me
 
-#### 💡 Languages & Frameworks  
-`Java` • `C#` • `PHP` • `Python` • `C` • `C++`  
-`HTML` • `CSS` • `JavaScript` • `React` • `Node.js`
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdullah-demir-81b8ba298" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="45" height="45"/>
+  </a>
+</p>
 
-#### 🗄️ Databases  
-`PostgreSQL` • `MySQL` • `SQLite`
+---
 
-#### 🧠 Tools & IDEs  
-`VS Code` • `IntelliJ IDEA` • `Visual Studio` • `NetBeans` • `GitHub` • `Figma`
+### 🧠 Languages and Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="Arduino" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="45" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="45" alt="Nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="45" alt="Redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" />
+</p>
 
 ---
 
@@ -47,15 +73,6 @@ who loves coding things that make life easier — or at least more fun 😎
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah2coding&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-### 💬 Contact Me  
-<p align="center">
-  <a href="mailto:abdullah.dmr6556@gmail.com"><img src="https://img.shields.io/badge/Email-FF3333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/abdullah-demir-81b8ba298"><img src="https://img.shields.io/badge/LinkedIn-00AAFF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/abdullah2coding"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
