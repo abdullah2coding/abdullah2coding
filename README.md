@@ -24,6 +24,21 @@ who loves coding things that make life easier — or at least more fun 😎
 - ☕ Motto: “If it compiles, ship it.”
 
 ---
+  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sysc0di/sysc0di/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sysc0di/sysc0di/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sysc0di/sysc0di/output/pacman-contribution-graph.svg">
+</picture>
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sysc0di&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sysc0di&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=sysc0di&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sysc0di&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 ### 💬 Contact Me <p align="center"> <a href="mailto:abdullah.dmr6556@gmail.com"><img src="https://img.shields.io/badge/Email-FF3333?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/abdullah-demir-81b8ba298"><img src="https://img.shields.io/badge/LinkedIn-00AAFF?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://github.com/abdullah2coding"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a> </p>
 
 ---
