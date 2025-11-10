@@ -1,78 +1,83 @@
 <!--
-🔥 Abdullah Demir | Full Stack Developer
+💻 Abdullah Demir | Full Stack Developer | Dark Premium Edition
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Abdullah+Demir!+👋;Full+Stack+Developer+💻;Code.+Coffee.+Repeat.+☕;Welcome+to+My+GitHub+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Abdullah+Demir!+👋;Full+Stack+Developer+💻;Code.+Create.+Repeat.+☕;Welcome+to+My+World+🌍" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding gif">
 </p>
 
 ---
 
-### 🌟 About Me  
+### 🧩 About Me  
 
-Hey there! I'm **Abdullah**, a creative **Full Stack Developer** from Türkiye 🇹🇷  
-who loves coding things that make life easier — or at least more fun 😎  
+Hey there! I'm **Abdullah**, a passionate **Full Stack Developer** from Türkiye 🇹🇷  
+I build **smart**, **responsive**, and **scalable** web & desktop applications.  
 
-- 🔭 Working on: **Next.js + Node.js CRM system**  
-- 🌱 Learning: **Spring Boot**, **AI tools**, and **UI/UX magic**  
-- 💬 Ask me about: **Java**, **React**, or why your code only fails on Fridays  
-- ⚡ Fun fact: My code works perfectly… right before the demo 💥  
-- ☕ Motto: “If it compiles, ship it.”
+- 🚀 Building: **Next.js**, **Node.js**, **Spring Boot** projects  
+- 🧠 Exploring: **AI integrations**, **UI/UX** improvements, **automation tools**  
+- 💬 Ask me about: Java, React, Databases, or full project architecture  
+- 🧰 Motto: *"Write code that tells a story, not just compiles."*
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdullah2coding/abdullah2coding/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdullah2coding/abdullah2coding/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abdullah2coding/abdullah2coding/output/pacman-contribution-graph.svg">
-</picture>
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45"/>
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45"/>
+
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45"/>
+</p>
+
+---
+
+### ⚙️ GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah2coding&radius=16&theme=redical&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullah2coding&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://streak-stats.demolab.com?user=abdullah2coding&theme=radical&hide_border=false" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullah2coding&layout=compact&theme=radical&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullah2coding&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah2coding&theme=chartreuse-dark&hide_border=true" height="160"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah2coding&layout=compact&theme=chartreuse-dark&hide_border=true" height="150"/>
 </div>
 
 ---
 
-### 💬 Contact Me  
+### 🧩 Activity Overview
+
 <p align="center">
-  <a href="mailto:abdullah.dmr6556@gmail.com"><img src="https://img.shields.io/badge/Email-FF3333?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/abdullah-demir-81b8ba298"><img src="https://img.shields.io/badge/LinkedIn-00AAFF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/abdullah2coding"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah2coding&theme=github-dark&area=true&hide_border=true&radius=12" height="300"/>
 </p>
 
 ---
 
-### 🧠 Languages and Tools
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="Figma" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="Linux" />
-</p>
-
----
-
+### 🐍 Contribution Snake  
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abdullah2coding/abdullah2coding/blob/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/abdullah2coding/abdullah2coding/blob/output/github-contribution-grid-snake.svg" />
@@ -81,28 +86,22 @@ who loves coding things that make life easier — or at least more fun 😎
 
 ---
 
-### ⚙️ GitHub Stats
+### 📬 Contact Me  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullah2coding&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah2coding&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah2coding&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <a href="mailto:abdullah.dmr6556@gmail.com"><img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abdullah-demir-81b8ba298"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=10B981"/></a>
+  <a href="https://github.com/abdullah2coding"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=10B981"/></a>
 </p>
 
 ---
 
-### 🕹️ Developer Mode  
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400"/>
-</p>
+### 🧠 Developer Loop  
 
 ```js
 while (alive) {
   coffee.refill();
-  code.create("awesome stuff 💻");
-  commit("fix: it finally works 🤞");
-  sleep(3); // optional...
+  code.build("clean solutions 💻");
+  commit("fix: another perfect bug 🤞");
+  sleep(3); // optional
   repeat();
 }
