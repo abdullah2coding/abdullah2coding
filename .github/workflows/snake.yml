@@ -1,9 +1,9 @@
-name: Generate Snake
+name: Generate Matrix Snake 🐍
 
 on:
   schedule:
-    - cron: "0 */12 * * *"  # Her 12 saatte bir çalışır
-  workflow_dispatch:       # Manuel çalıştırmak için
+    - cron: "0 0 * * *"   # Her gün gece 00:00'da otomatik çalışır
+  workflow_dispatch:       # Manuel çalıştırma
   push:
     branches:
       - main
@@ -12,19 +12,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      - name: Generate the snake 🐍
+      - name: Generate Matrix Green Snake 🟢
         uses: Platane/snk@v3
         with:
           github_user_name: abdullah2coding
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=matrix
             dist/github-contribution-grid-snake-light.svg?palette=github-light
 
-      - name: Push generated snake to the output branch
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
