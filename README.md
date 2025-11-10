@@ -1,9 +1,9 @@
 <!--
-💻 Abdullah Demir | Full Stack Developer | Dark Premium Edition
+💻 Abdullah Demir | Full Stack Developer | Cyber Neon Edition
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Abdullah+Demir!+👋;Full+Stack+Developer+💻;Code.+Create.+Repeat.+☕;Welcome+to+My+World+🌍" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFAA&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Abdullah+Demir!+👋;Full+Stack+Developer+💻;Code.+Create.+Repeat.+☕;Welcome+to+My+World+🌍" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -14,17 +14,17 @@
 
 ### 🧩 About Me  
 
-Hey there! I'm **Abdullah**, a passionate **Full Stack Developer** from Türkiye 🇹🇷  
+Hi, I'm **Abdullah**, a passionate **Full Stack Developer** from Türkiye 🇹🇷  
 I build **smart**, **responsive**, and **scalable** web & desktop applications.  
 
-- 🚀 Building: **Next.js**, **Node.js**, **Spring Boot** projects  
-- 🧠 Exploring: **AI integrations**, **UI/UX** improvements, **automation tools**  
-- 💬 Ask me about: Java, React, Databases, or full project architecture  
-- 🧰 Motto: *"Write code that tells a story, not just compiles."*
+- 🚀 Building: **Next.js**, **Node.js**, **Spring Boot**, **React**  
+- 🧠 Exploring: **AI automation**, **Cloud apps**, **UI/UX design**  
+- 💬 Ask me about: Java, React, Databases, or full-stack architecture  
+- ⚡ Motto: *“Code should feel like art, not machinery.”*
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools  
 
 <p align="center">
   <!-- Frontend -->
@@ -32,16 +32,16 @@ I build **smart**, **responsive**, and **scalable** web & desktop applications.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="45"/>
+  
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45"/>
-
-  <!-- Databases -->
+  
+  <!-- Database -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="45"/>
@@ -56,38 +56,40 @@ I build **smart**, **responsive**, and **scalable** web & desktop applications.
 
 ---
 
-### ⚙️ GitHub Insights
+### ⚙️ GitHub Insights  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullah2coding&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah2coding&theme=chartreuse-dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullah2coding&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah2coding&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah2coding&layout=compact&theme=chartreuse-dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah2coding&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </div>
 
 ---
 
-### 🧩 Activity Overview
+### 🧩 Activity Overview  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah2coding&theme=github-dark&area=true&hide_border=true&radius=12" height="300"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullah2coding&theme=react-dark&area=true&hide_border=true&radius=12" height="300"/>
 </p>
 
 ---
-### 🐍 Matrix Snake (Live Contribution Animation)
+
+### 🐍 Cyber Snake (Live Contribution Animation)  
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdullah2coding/abdullah2coding/output/github-contribution-grid-snake-dark.svg" alt="Matrix snake animation"/>
+  <img src="https://raw.githubusercontent.com/abdullah2coding/abdullah2coding/output/github-contribution-grid-snake-neon.svg" alt="Cyber snake animation" />
 </p>
 
 ---
 
 ### 📬 Contact Me  
 <p align="center">
-  <a href="mailto:abdullah.dmr6556@gmail.com"><img src="https://img.shields.io/badge/Email-10B981?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/abdullah-demir-81b8ba298"><img src="https://img.shields.io/badge/LinkedIn-1E293B?style=for-the-badge&logo=linkedin&logoColor=10B981"/></a>
-  <a href="https://github.com/abdullah2coding"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=10B981"/></a>
+  <a href="mailto:abdullah.dmr6556@gmail.com"><img src="https://img.shields.io/badge/Email-00FFAA?style=for-the-badge&logo=gmail&logoColor=121212"/></a>
+  <a href="https://www.linkedin.com/in/abdullah-demir-81b8ba298"><img src="https://img.shields.io/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin&logoColor=00FFAA"/></a>
+  <a href="https://github.com/abdullah2coding"><img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=00FFAA"/></a>
 </p>
 
 ---
@@ -97,7 +99,7 @@ I build **smart**, **responsive**, and **scalable** web & desktop applications.
 ```js
 while (alive) {
   coffee.refill();
-  code.build("clean solutions 💻");
+  code.create("clean, scalable magic 💻");
   commit("fix: another perfect bug 🤞");
   sleep(3); // optional
   repeat();
