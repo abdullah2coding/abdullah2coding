@@ -1,30 +1,44 @@
-name: Generate Matrix Snake 🐍
+name: 🐍 Generate Cyber Neon Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Her gün gece 00:00'da otomatik çalışır
-  workflow_dispatch:       # Manuel çalıştırma
+    - cron: "0 0 * * *"     # Her gün gece 00:00'da otomatik çalışır
+  workflow_dispatch:         # Manuel çalıştırma
   push:
     branches:
       - main
 
 jobs:
   build:
+    name: Build Snake Animation
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repo
+      # ✅ 1. Depoyu al
+      - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Generate Matrix Green Snake 🟢
+      # ✅ 2. Snake oluştur
+      - name: Generate Cyber Neon Snake 🐍
         uses: Platane/snk@v3
+        id: snake
         with:
           github_user_name: abdullah2coding
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=matrix
+            dist/github-contribution-grid-snake-dark.svg?palette=neon
             dist/github-contribution-grid-snake-light.svg?palette=github-light
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push snake to output branch
+      # ✅ 3. Output klasörünü kontrol et
+      - name: Verify output files
+        run: |
+          echo "Generated files:"
+          ls -al dist || echo "dist klasörü bulunamadı!"
+
+      # ✅ 4. “output” branch’ine pushla
+      - name: Push Snake to Output Branch 🚀
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
