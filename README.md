@@ -76,10 +76,9 @@ I build **smart**, **responsive**, and **scalable** web & desktop applications.
 </p>
 
 ---
-
-### 🐍 Contribution Snake
+### 🐍 Matrix Snake (Live Contribution Animation)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abdullah2coding/abdullah2coding/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/abdullah2coding/abdullah2coding/output/github-contribution-grid-snake-dark.svg" alt="Matrix snake animation"/>
 </p>
 
 ---
